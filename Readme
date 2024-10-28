@@ -1,0 +1,15 @@
+# CoinDCX Trading Application
+
+## Setup Instructions
+1. Clone the repository.
+2. Open the project in your IDE.
+3. Add required dependencies.
+4. Run the Main class.
+
+## Operation Instructions
+1. Enter the trigger price when prompted.
+2. View real-time market data and prepared payloads.
+
+## Libraries Used
+- javax.websocket
+- org.json
